@@ -11,3 +11,4 @@ Pogledaj [Licenca](LICENSE)
 
 ### Osnove Git-a i GitHub-a
 [Ovdje](https://merlin.srce.hr) možete saznati više o Git tehnologiji.
+
